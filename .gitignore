@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+__pycache__
+*.pyc
+*.pdf
+input
+output
+*.ipynb
+*.geojson
